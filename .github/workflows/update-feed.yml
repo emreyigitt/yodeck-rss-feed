@@ -1,0 +1,57 @@
+name: Günlük RSS Feed Güncelle
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları Yükle
+        run: pip install -r requirements.txt
+
+      - name: docs klasörünü oluştur
+        run: mkdir -p docs
+
+      - name: RSS Feed Oluştur
+        run: python generate_feed.py
+
+      - name: Index sayfası oluştur
+        run: |
+          cat > docs/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="tr">
+          <head>
+            <meta charset="UTF-8">
+            <title>Dijital Dünya - RSS Feed</title>
+          </head>
+          <body>
+            <h1>📡 Dijital Dünya - Günlük Haberler</h1>
+            <p><a href="feed.xml">RSS Feed</a></p>
+          </body>
+          </html>
+          EOF
+
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "RSS Bot"
+          git add docs/
+          git diff --staged --quiet || git commit -m "🔄 RSS feed güncellendi - $(date +'%Y-%m-%d %H:%M')"
+          git push
