@@ -35,6 +35,14 @@ FEEDS = {
     ],
 }
 
+# ─── Kategori açıklamaları (zengin içerik için) ───
+CATEGORY_CONTEXT = {
+    "Yapay Zeka": "Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.",
+    "Google Ads & Marketing": "Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.",
+    "SEO": "Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.",
+    "Google Haberleri": "Google'ın ürün ve hizmetlerindeki güncellemeler, milyarlarca kullanıcıyı ve işletmeyi doğrudan etkiliyor. Teknoloji dünyasının en büyük oyuncusundan gelen her yenilik, dijital ekosistemin geleceğini şekillendiriyor.",
+}
+
 # ─── Filtreleme: İstenmeyen kelimeler ───
 BLOCKED_KEYWORDS = [
     "kumar", "bahis", "casino", "sex", "porno", "dedikodu",
@@ -56,13 +64,11 @@ TRUSTED_SOURCES = [
 
 
 def is_blocked(title: str, summary: str = "") -> bool:
-    """Uygunsuz içerik kontrolü."""
     text = (title + " " + summary).lower()
     return any(kw in text for kw in BLOCKED_KEYWORDS)
 
 
 def trust_score(link: str) -> int:
-    """Güvenilir kaynaklara öncelik ver."""
     link_lower = link.lower()
     for i, src in enumerate(TRUSTED_SOURCES):
         if src in link_lower:
@@ -71,13 +77,43 @@ def trust_score(link: str) -> int:
 
 
 def clean_html(raw: str) -> str:
-    """HTML etiketlerini temizle."""
     clean = re.sub(r"<[^>]+>", "", raw)
     return html.unescape(clean).strip()
 
 
+def extract_source(link: str) -> str:
+    """URL'den kaynak adını çıkar."""
+    try:
+        from urllib.parse import urlparse
+        domain = urlparse(link).netloc
+        domain = domain.replace("www.", "")
+        parts = domain.split(".")
+        if len(parts) >= 2:
+            return parts[-2].capitalize()
+        return domain.capitalize()
+    except:
+        return ""
+
+
+def build_rich_description(title: str, summary: str, category: str, link: str) -> str:
+    """Zengin ve bilgi verici açıklama oluştur."""
+    source = extract_source(link)
+    context = CATEGORY_CONTEXT.get(category, "")
+    
+    # Özet varsa kullan, yoksa kategori bağlamını ekle
+    if summary and len(summary) > 50:
+        desc = f"📌 {category} | Kaynak: {source}\n\n{summary}"
+    else:
+        desc = f"📌 {category} | Kaynak: {source}\n\n{title}. {context}"
+    
+    # Açıklamayı zenginleştir
+    if len(desc) < 200:
+        desc += f"\n\n💡 {context}"
+    
+    return desc[:600]
+
+
 def fetch_all_entries() -> list:
-    """Tüm RSS kaynaklarından haberleri çek."""
     all_entries = []
     seen_titles = set()
 
@@ -90,15 +126,12 @@ def fetch_all_entries() -> list:
                     summary = clean_html(entry.get("summary", ""))
                     link = entry.get("link", "")
 
-                    # Boş veya çok kısa başlıkları atla
                     if len(title) < 10:
                         continue
 
-                    # Uygunsuz içerik filtresi
                     if is_blocked(title, summary):
                         continue
 
-                    # Tekrar kontrolü (başlık benzerliği)
                     title_hash = hashlib.md5(
                         title.lower()[:50].encode()
                     ).hexdigest()
@@ -106,23 +139,24 @@ def fetch_all_entries() -> list:
                         continue
                     seen_titles.add(title_hash)
 
-                    # Tarih bilgisi
-                    published = entry.get("published", "")
                     pub_date = entry.get("published_parsed")
                     if pub_date:
                         pub_dt = datetime.datetime(*pub_date[:6])
                     else:
                         pub_dt = datetime.datetime.now()
 
+                    # Zengin açıklama oluştur
+                    rich_desc = build_rich_description(title, summary, category, link)
+
                     all_entries.append(
                         {
                             "title": title,
-                            "summary": summary[:300] if summary else "",
+                            "summary": rich_desc,
                             "link": link,
                             "category": category,
-                            "published": published,
                             "pub_dt": pub_dt,
                             "trust": trust_score(link),
+                            "source": extract_source(link),
                         }
                     )
             except Exception as e:
@@ -132,27 +166,23 @@ def fetch_all_entries() -> list:
 
 
 def select_top_entries(entries: list, total: int = 15) -> list:
-    """Kategori bazlı dengeli ve kaliteli haber seçimi."""
     categories = list(FEEDS.keys())
-    per_category = total // len(categories)  # 3-4 haber/kategori
+    per_category = total // len(categories)
     remainder = total % len(categories)
 
     selected = []
 
     for i, cat in enumerate(categories):
         cat_entries = [e for e in entries if e["category"] == cat]
-        # Önce güvenilirlik, sonra tarih sırası
         cat_entries.sort(key=lambda x: (-x["trust"], -x["pub_dt"].timestamp()))
         count = per_category + (1 if i < remainder else 0)
         selected.extend(cat_entries[:count])
 
-    # Tarihe göre sırala (en yeni üstte)
     selected.sort(key=lambda x: -x["pub_dt"].timestamp())
     return selected[:total]
 
 
 def generate_rss_xml(entries: list) -> str:
-    """RSS 2.0 XML oluştur."""
     rss = Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 
@@ -162,13 +192,9 @@ def generate_rss_xml(entries: list) -> str:
         "Yapay Zeka, Google Ads, SEO ve Google haberleri - Günlük 15 seçme haber"
     )
     SubElement(channel, "language").text = "tr"
-    SubElement(channel, "lastBuildDate").text = datetime.datetime.now(
-        datetime.timezone.utc
-    ).strftime("%a, %d %b %Y %H:%M:%S +0000")
     SubElement(channel, "generator").text = "Custom RSS Aggregator"
-    SubElement(channel, "ttl").text = "1440"  # 24 saat cache
+    SubElement(channel, "ttl").text = "1440"
 
-    # Kategori etiketleri
     CATEGORY_EMOJI = {
         "Yapay Zeka": "🤖",
         "Google Ads & Marketing": "📢",
@@ -181,12 +207,9 @@ def generate_rss_xml(entries: list) -> str:
         emoji = CATEGORY_EMOJI.get(entry["category"], "📰")
         SubElement(item, "title").text = f'{emoji} {entry["title"]}'
         SubElement(item, "link").text = entry["link"]
-        SubElement(item, "description").text = (
-            f'[{entry["category"]}] {entry["summary"]}'
-        )
+        SubElement(item, "description").text = entry["summary"]
         SubElement(item, "category").text = entry["category"]
-        if entry["published"]:
-            SubElement(item, "pubDate").text = entry["published"]
+        # pubDate kasıtlı olarak eklenmedi - saat bilgisi gösterilmeyecek
         SubElement(item, "guid", isPermaLink="false").text = hashlib.md5(
             entry["link"].encode()
         ).hexdigest()
