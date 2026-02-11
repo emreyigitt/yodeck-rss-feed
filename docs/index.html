@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dijital Dünya - RSS Feed</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 20px; }
+    .card { background: rgba(255,255,255,0.95); padding: 40px; border-radius: 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.3); max-width: 650px; width: 100%; }
+    h1 { font-size: 28px; color: #1a1a2e; margin-bottom: 8px; }
+    .subtitle { color: #666; font-size: 15px; margin-bottom: 24px; }
+    .badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+    .badge { padding: 6px 16px; border-radius: 20px; font-size: 13px; font-weight: 600; }
+    .ai { background: #e3f2fd; color: #1565c0; }
+    .ads { background: #fff3e0; color: #e65100; }
+    .seo { background: #e8f5e9; color: #2e7d32; }
+    .google { background: #fce4ec; color: #c62828; }
+    .feed-box { background: #f8f9fa; border: 2px dashed #dee2e6; border-radius: 12px; padding: 20px; margin: 20px 0; text-align: center; }
+    .feed-url { font-family: 'Courier New', monospace; font-size: 14px; color: #333; word-break: break-all; background: #fff; padding: 12px; border-radius: 8px; border: 1px solid #e0e0e0; display: block; margin-top: 10px; }
+    .btn { display: inline-block; background: #4CAF50; color: white; padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-top: 12px; }
+    .btn:hover { background: #388E3C; }
+    .info { margin-top: 24px; padding: 16px; background: #f0f7ff; border-radius: 10px; font-size: 14px; color: #555; line-height: 1.7; }
+    .info strong { color: #333; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>📡 Dijital Dünya</h1>
+    <p class="subtitle">Günlük 15 Seçme Haber • Otomatik Güncelleme</p>
+    
+    <div class="badges">
+      <span class="badge ai">🤖 Yapay Zeka</span>
+      <span class="badge ads">📢 Google Ads & Marketing</span>
+      <span class="badge seo">🔍 SEO</span>
+      <span class="badge google">🔵 Google Haberleri</span>
+    </div>
+
+    <div class="feed-box">
+      <strong>RSS Feed URL</strong>
+      <code class="feed-url">
+        <a href="feed.xml">feed.xml</a>
+      </code>
+      <a href="feed.xml" class="btn">📥 Feed'i Aç</a>
+    </div>
+
+    <div class="info">
+      <strong>Yodeck Kurulumu:</strong><br>
+      1. Yukarıdaki feed.xml linkini tam URL olarak kopyalayın<br>
+      2. Yodeck → Apps → Google Alerts veya RSS widget<br>
+      3. RSS Feed URL alanına yapıştırın<br>
+      4. Save & Preview ile kontrol edin<br><br>
+      <strong>Güncelleme:</strong> Her gün 09:00 ve 21:00 (TR saati) otomatik güncellenir.
+    </div>
+  </div>
+</body>
+</html>
