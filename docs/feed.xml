@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dijital Dünya - Günlük Haberler</title>
+    <description>Yapay Zeka, Google Ads, SEO ve Google haberleri - Günlük 15 seçme haber</description>
+    <language>tr</language>
+    <lastBuildDate>Tue, 11 Feb 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Custom RSS Aggregator</generator>
+    <ttl>1440</ttl>
+    <item>
+      <title>🤖 Google Gemini 2.0 ile yapay zeka alanında büyük adım atıyor</title>
+      <link>https://blog.google/technology/ai/</link>
+      <description>[Yapay Zeka] Google'ın yeni Gemini 2.0 modeli, çoklu görev yetenekleri ve gelişmiş akıl yürütme özellikleriyle dikkat çekiyor.</description>
+      <category>Yapay Zeka</category>
+      <pubDate>Tue, 11 Feb 2025 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-001</guid>
+    </item>
+    <item>
+      <title>📢 Google Ads, Performance Max kampanyalarına yeni özellikler ekledi</title>
+      <link>https://blog.google/products/ads/</link>
+      <description>[Google Ads &amp; Marketing] Performance Max kampanyaları artık daha detaylı raporlama ve hedefleme seçenekleri sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <pubDate>Tue, 11 Feb 2025 07:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-002</guid>
+    </item>
+    <item>
+      <title>🔍 Google'ın Mart 2025 Core Update'i SEO dünyasını nasıl etkiliyor?</title>
+      <link>https://searchengineland.com</link>
+      <description>[SEO] Yeni çekirdek güncelleme, içerik kalitesi ve kullanıcı deneyimini ön plana çıkarıyor.</description>
+      <category>SEO</category>
+      <pubDate>Tue, 11 Feb 2025 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-003</guid>
+    </item>
+    <item>
+      <title>🔵 Google, Chrome tarayıcısına AI destekli yeni özellikler getiriyor</title>
+      <link>https://blog.google/products/chrome/</link>
+      <description>[Google Haberleri] Chrome tarayıcısı, yapay zeka destekli sekme yönetimi ve akıllı arama önerileri ile güncelleniyor.</description>
+      <category>Google Haberleri</category>
+      <pubDate>Tue, 11 Feb 2025 06:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-004</guid>
+    </item>
+    <item>
+      <title>🤖 OpenAI ve Microsoft'un yapay zeka yatırımları rekor seviyede</title>
+      <link>https://techcrunch.com/category/artificial-intelligence/</link>
+      <description>[Yapay Zeka] Yapay zeka alanındaki yatırımlar 2025'te tarihi seviyelere ulaşıyor.</description>
+      <category>Yapay Zeka</category>
+      <pubDate>Tue, 11 Feb 2025 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-005</guid>
+    </item>
+    <item>
+      <title>📢 Dijital reklam harcamaları 2025'te yüzde 15 artış gösterdi</title>
+      <link>https://marketingturkiye.com.tr</link>
+      <description>[Google Ads &amp; Marketing] Dijital reklam pazarı büyümeye devam ediyor, Google Ads en büyük payı alıyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <pubDate>Tue, 11 Feb 2025 05:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-006</guid>
+    </item>
+    <item>
+      <title>🔍 E-ticaret siteleri için 2025 SEO stratejileri</title>
+      <link>https://searchenginejournal.com</link>
+      <description>[SEO] Uzmanlar, e-ticaret sitelerinin 2025'te odaklanması gereken SEO stratejilerini paylaşıyor.</description>
+      <category>SEO</category>
+      <pubDate>Tue, 11 Feb 2025 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-007</guid>
+    </item>
+    <item>
+      <title>🔵 Google Maps, AI ile geliştirilmiş navigasyon özelliklerini duyurdu</title>
+      <link>https://blog.google/products/maps/</link>
+      <description>[Google Haberleri] Google Maps artık yapay zeka ile daha akıllı rota önerileri sunuyor.</description>
+      <category>Google Haberleri</category>
+      <pubDate>Tue, 11 Feb 2025 04:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-008</guid>
+    </item>
+    <item>
+      <title>🤖 Türkiye'de yapay zeka girişimlerine yatırımlar artıyor</title>
+      <link>https://webrazzi.com</link>
+      <description>[Yapay Zeka] Yerli yapay zeka girişimleri, uluslararası yatırımcıların radarına giriyor.</description>
+      <category>Yapay Zeka</category>
+      <pubDate>Tue, 11 Feb 2025 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-009</guid>
+    </item>
+    <item>
+      <title>📢 Google Ads Demand Gen kampanyaları için yeni hedefleme seçenekleri</title>
+      <link>https://blog.google/products/ads/</link>
+      <description>[Google Ads &amp; Marketing] Demand Gen kampanyaları, genişletilmiş kitle hedefleme özellikleriyle güncellendi.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <pubDate>Tue, 11 Feb 2025 03:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-010</guid>
+    </item>
+    <item>
+      <title>🔍 Google SGE ve AI Overview, organik trafik üzerindeki etkileri</title>
+      <link>https://moz.com/blog</link>
+      <description>[SEO] Google'ın AI destekli arama sonuçları, web sitelerinin organik trafiğini nasıl etkiliyor?</description>
+      <category>SEO</category>
+      <pubDate>Tue, 11 Feb 2025 03:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-011</guid>
+    </item>
+    <item>
+      <title>🔵 Google Workspace'e yeni AI asistan özellikleri eklendi</title>
+      <link>https://workspace.google.com/blog</link>
+      <description>[Google Haberleri] Gmail, Docs ve Sheets'e entegre edilen AI özellikleri iş verimliliğini artırmayı hedefliyor.</description>
+      <category>Google Haberleri</category>
+      <pubDate>Tue, 11 Feb 2025 02:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-012</guid>
+    </item>
+    <item>
+      <title>🤖 Avrupa Birliği AI düzenlemesi yürürlüğe girdi</title>
+      <link>https://reuters.com/technology</link>
+      <description>[Yapay Zeka] AB'nin yapay zeka yasası, şirketlerin AI kullanımına yeni kurallar getiriyor.</description>
+      <category>Yapay Zeka</category>
+      <pubDate>Tue, 11 Feb 2025 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-013</guid>
+    </item>
+    <item>
+      <title>📢 YouTube Ads, kısa video reklamlarında yeni formatlar sunuyor</title>
+      <link>https://blog.google/products/ads/</link>
+      <description>[Google Ads &amp; Marketing] YouTube Shorts reklamları, yeni interaktif formatlarla güncellendi.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <pubDate>Tue, 11 Feb 2025 01:30:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-014</guid>
+    </item>
+    <item>
+      <title>🔍 Yapılandırılmış veri (Schema) ile arama sonuçlarında öne çıkma rehberi</title>
+      <link>https://searchengineland.com</link>
+      <description>[SEO] Schema markup kullanarak zengin arama sonuçlarında görünürlüğü artırmanın yolları.</description>
+      <category>SEO</category>
+      <pubDate>Tue, 11 Feb 2025 01:00:00 +0000</pubDate>
+      <guid isPermaLink="false">sample-015</guid>
+    </item>
+  </channel>
+</rss>
