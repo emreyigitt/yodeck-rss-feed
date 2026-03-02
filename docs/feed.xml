@@ -7,70 +7,103 @@
     <generator>Custom RSS Aggregator</generator>
     <ttl>1440</ttl>
     <item>
-      <title>🤖 APAC firms still in AI test mode as data readiness issues persist - Computer Weekly</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0dPYWxjX3k0V3JUV2J3R3d0Z0lidWdYV1lEOGZuY0k1VnBvNmZWWW84d3BMWEw4ZGswYWJWZUM1QXNIZlhZVkJkV19qU2NwNF81N1NOa2xWbUdRRjAyN3FsYWJ5dTBwWGJscnAtSklLcnV1a1lhcDNiRUoyd3RJd3Bud21vbmliS1N3VXZZY2tSemo0cjBWLUgteTdJS19oTEl3X2JCLWV1SWZiUG0xaQ?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-APAC firms still in AI test mode as data readiness issues persist  Computer Weekly
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">fcd8ae27d928c576c6b59af44d3f486f</guid>
-    </item>
-    <item>
-      <title>🤖 E.W. Scripps Confronts Rising AI Risks as Regulation, Privacy Concerns Threaten Media Operations and Competitiveness - The Globe and Mail</title>
-      <link>https://news.google.com/rss/articles/CBMinwJBVV95cUxQaVhRVUpwWWVIazBrV1M3b2QyR1pqN0pLSG5IZnN1XzFfRTdLaWdKVW1TZkdJNGZuQ3pRZDJLQnNVeUpySXR6QkVOdkl6NkN5UFNoTjM5dmdyTXJCU1E2UlNMUTh2Mm1lZ2U2bjdhOHA0NmhwN2twa0hyLU5rZDNsd01OSzlmd2hzWmtOTjNReWlrLWFuM1lHOWlwLUJWZU94b0tKMkdObGFoUTZPY1lLMW1TbFB6MzM0OXBRd0R5ZTNYamNNSmdvVlhfaHJiYjdlMWVnSngxN2N3cXFFMXBvSnFrczVKa19xUVdoNVEyTG83M29qQk5KbllYS3dnMDM5T3ljZDlGZlAzXzVpUEdsMHJ4cXNQRHZZMGxza0Q4Zw?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-E.W. Scripps Confronts Rising AI Risks as Regulation, Privacy Concerns Threaten Media Operations and Competitiveness  The Globe and Mail
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">86ef43b7435d1b3076aa35485c32a303</guid>
-    </item>
-    <item>
-      <title>🤖 An Ohio newspaper has a new star writer. It isn’t human. - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkdULTBIamVJVTlMZWc5VXBRNlJ3YWd0WkhQQmxuZnlMVFdLdkdNNDAyRTRTd0FqS1dQVGZYM29OVlV5d0RZUUJLMkhBX1hZOWpSRFlBSi1BVTRoYWNNcm1nRm1MblBoeEtxMVBWckEtMGZnUGNwVnNfMkVuRzVBWW91VmxzQVItX3RxRXNkZ2VMdWZnQVlIekJFQmhxYTg?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-An Ohio newspaper has a new star writer. It isn’t human.  The Washington Post
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">e9c52181609607b48ba0e82bf612e0fa</guid>
-    </item>
-    <item>
-      <title>🔍 What AI Sees When It Visits Your Website (And How To Fix It) - Search Engine Journal</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQdG5XLXlSaTJnRHUxc3UxZzVWNjZON3d5Qm0xQVl6VFRQcFlrblFCT2xqdWZvRlo2ZUdDNmk5NEVZNzY4Zzd2cm1sbV9Eb21SaXJ1ZF91bGVhTzhHX3FUT3lWOGJWSFZYOFdlaHNTZTQ3SFpBQ0xXZEV5T2JxTk12V0NaMA?oc=5</link>
+      <title>🔍 Google expands recurring billing policy - Search Engine Land</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXRtNEw1Tmg0T0hWN1dXQkcyVXJMMDNvY3VobTY1cHhzRkRpWjM2Y2ktbHRsYWdEYjNybWdFbldGeG5SUWJ0YWtpWWNTWHU4N1RnTURIejlTeFNSbjRhUDQ4bVRfSGhpMEdjS19yS2hoWjZiQVlPR1E5aVI0cFpKcA?oc=5</link>
       <description>📌 SEO | Kaynak: Google
 
-What AI Sees When It Visits Your Website (And How To Fix It)  Search Engine Journal
+Google expands recurring billing policy  Search Engine Land
 
 💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
       <category>SEO</category>
-      <guid isPermaLink="false">b9ae5bef4b25f8fa059db277babb86b5</guid>
+      <guid isPermaLink="false">4c0e39071020023578bac40948c674b1</guid>
     </item>
     <item>
-      <title>🔍 Top 8 Engine Optimization Services in 2026 for Boosting Online Visibility - nerdbot</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZGVrbHdLZ0FoQTk4NS1zdkd5ZG1ubVZnX3psLVJlWlN2dDZpdTdvTkFTSU13QWVSZUVPSEVJeHlIUUFOUFRHSlYzWllCeWdBY1I5WmZSWGw1OHVPY2dLUW9WcGoybDNFR09FNWpudV9wYWpWcGluYVRua2p6MWNtV2RjN3dLbkFaNi13Wm9TUE5FTU1iSUFXdlhBZUZMcndTQTEwc3FKb2k?oc=5</link>
+      <title>🤖 Eli Lilly’s CEO finds AI is ‘not particularly good’ at biology or chemistry problems - Fortune</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzVVeVZfbW8yY3M2NHM3dWx2bHJyMUJvRmxlQzNwUDc0MXB5QnlySlBzZUp1WjVhcDBBZ1BEYktlQnJCMDF2ZHpZVjZra2M0QzZRSXRfWkNPbGNUMmdfWTlEeklpbnFjdWpkOGpldXRUWHQwbjk3WE9fdUJMblBnOHNqVzhJYzRuLXZGczBKQQ?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+Eli Lilly’s CEO finds AI is ‘not particularly good’ at biology or chemistry problems  Fortune
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">d564f3ac628f693e56cf11e964ab5e1c</guid>
+    </item>
+    <item>
+      <title>🤖 Nvidia to Invest $4B in Companies to Scale AI Infrastructure - AI Business</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDNjTHpFeE9NTkdWNWV1RFF3anMzY3JFUnN0empGX0FNa0NKR0xpUlI0SHJWakRyekdQUFo2eTg5LW9YV3dlSGFZRnI2QjR3RzNzX3RsU1F0Mko5b29lLUVvU0I4RGpvUGJLd3BzT2IzRG9VVkVtbWVOampKWXNWeHR4Q3QxVUprRHJCSFotMGRRZS1IRXU5S3Q3Yw?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+Nvidia to Invest $4B in Companies to Scale AI Infrastructure  AI Business
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">5696b1c55451aa05c85763775f6e904f</guid>
+    </item>
+    <item>
+      <title>🔍 Google Clarifies How It Picks Thumbnails For Search, Discover - Search Engine Journal</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmYxdlBzWkpTWjdncXJEd0VQcU5uUkdxa2xzNnEydTMzcUl3V2RKVWFNMTlFQ04tcWpUSGY2bGV5d21JenM2MllIM01SOFN3VFFYcUlmZ1pweHdBbFBEMmtRR0JxaUJjTzI1cnpmUXRBNENiWXZCVUt1eFRKakR4WlFlX0ZlaHJoWUIwQU1CdUhQWjY2RlJ2Q1JZQy1QaHhZWVpMMElsSQ?oc=5</link>
       <description>📌 SEO | Kaynak: Google
 
-Top 8 Engine Optimization Services in 2026 for Boosting Online Visibility  nerdbot
+Google Clarifies How It Picks Thumbnails For Search, Discover  Search Engine Journal
 
 💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
       <category>SEO</category>
-      <guid isPermaLink="false">3199c45e14df7e6501ce900394b62415</guid>
+      <guid isPermaLink="false">fc3f30e8437bb2b942eaf60b28344edb</guid>
     </item>
     <item>
-      <title>🔍 Google AI Overviews Surges Across 9 Industries - Search Engine Journal</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHZSTjdZUGxONzJKbHlDaXdueWFsZWx6OFNMYVFwejlKY0NQcFgzak9HYlJvOUVGYTJNOVVLbDQyWDlEVGM3RnVQYW9oajNHcWJWOWpnYzFDQzVUZnN4bFExLU9HMVlRZlhmVW5QZkJDQkxqZ3FGUWN4TDFKX0tiZ0tNaXJWVmtfVHN2UGs3STJmdnJf?oc=5</link>
+      <title>🤖 White House AI Policy Update: Utah AI Bill Opposition, Tech Corps Launch, and State of the Union Data Center Announcements — AI: The Washington Report - JD Supra</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFc0UEVKUmVNRDVPNkxyNm83bWdXc1p0WlF1dTFOUktRMnJmTkcxS0V4NjdnT0E4YmxTZzUwVm9OdXJEcDFEOE42TjdBczJrWWpHTmt4LW1LeG90eTZESlFxR2N0dUdrMjhjREdtTlJnajdtaDJhMFFma3Rob0pySGhLdGpxdw?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+White House AI Policy Update: Utah AI Bill Opposition, Tech Corps Launch, and State of the Union Data Center Announcements — AI: The Washington Report  JD Supra
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">7d5503d55647c448709e530e869ef7fb</guid>
+    </item>
+    <item>
+      <title>🔍 How to revise your old content for AI search optimization - Search Engine Land</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVBqd3VnX3ZlejJSNHJpdzJ4REdocllVT09Td2paTkVCeE0xSVBTUEh3R2hINk9jX2lNV3ctTnFMcHNOQzhLb1pteEpFRl9jb0pZZ011anltMWFzel9teWRyVUYyRlNyY1lyME5TaWJQeGgwWE43T05JWllaUWZXcEdQVQ?oc=5</link>
       <description>📌 SEO | Kaynak: Google
 
-Google AI Overviews Surges Across 9 Industries  Search Engine Journal
+How to revise your old content for AI search optimization  Search Engine Land
 
 💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
       <category>SEO</category>
-      <guid isPermaLink="false">9e60accc99ac1c77a720c285326e1922</guid>
+      <guid isPermaLink="false">ab0514a4f7a83f1ed4f0327544cc13c3</guid>
+    </item>
+    <item>
+      <title>🔍 Google publishes Universal Commerce Protocol help page - Search Engine Land</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnJKNFFZVlE5aG8yajlNbncwZWV2ZFVRdmJTcjJiTmNidGlQaVpqbGhtYXhXZFhMb2V3d05ncTNyMzdGQzUtZF9Bb0drdWxOaHpRVmdvWFJFc0NKdVFfdVU0a0ZvbEhZbFI4ZUpHYkF4ZUtocnJIS0V3SmdRanpIWmxlaVpBc3JGb0E3eXBLaGVQeUM5?oc=5</link>
+      <description>📌 SEO | Kaynak: Google
+
+Google publishes Universal Commerce Protocol help page  Search Engine Land
+
+💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
+      <category>SEO</category>
+      <guid isPermaLink="false">8905d479d26d1580f3796420948c8e74</guid>
+    </item>
+    <item>
+      <title>📢 11880 Solutions AG is an official Google Premium Partner 2026: Major success in digital marketing - TradingView</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbTdSeUhha29UMTFJU2gxc1oxdkVfb2xqVGlpcEZpSTNCU2R1UjA3MGVoYnlXUTBUR1RlT1VLM2VqajZsRnZhaVBtdmpzWGdMbVlCU0hwYURIc0N2dWNwbjFjTENZSl9saDdReXB3VHVoVWl3TU9CQ19lZTJHTnliR1d6ZUZieC1ScXZIMWlDRW4zNVNEYjdubXVjMDhIdzhnU0ZxUlczSnBkLWxFOTA2R3JSQ1FfN1Q3ei11TXNDR25sN2JUTmYzSXVyT0FHTGF4dDBCTmw0REtjTGxKbGxsZ3Z0MFM?oc=5</link>
+      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+
+11880 Solutions AG is an official Google Premium Partner 2026: Major success in digital marketing  TradingView
+
+💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <guid isPermaLink="false">273298b33b65e8c52a827fc3c4cd4d33</guid>
+    </item>
+    <item>
+      <title>📢 Google Ads’te Sahte Trafiğe AI Önlemi - Campaign Türkiye</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlJoT25KOHlkSllBMGdxX1NTakpkaS1WbTBKSjVZLUpIcHJ3YUVWVGI0S2NBTEptRUJ6SVhRV1ZTVmNockNUNEJoMUNSdlk0TGszWVU0blRPcEQ5MGFkWE1sWm8tOURGNFpmc1A1RHdZTzB3alBrd0tYMGRtRkFzdktFRWFmdi1vd3ZF?oc=5</link>
+      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+
+Google Ads’te Sahte Trafiğe AI Önlemi  Campaign Türkiye
+
+💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <guid isPermaLink="false">03d24bc1b65094c3e472672e3c00f10b</guid>
     </item>
     <item>
       <title>📢 Google Ads budget pacing with ad scheduling: what the March 1 change actually does - PPC Land</title>
@@ -82,37 +115,6 @@ Google Ads budget pacing with ad scheduling: what the March 1 change actually do
 💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
       <category>Google Ads &amp; Marketing</category>
       <guid isPermaLink="false">fe89f371dff30f900d82768b79e8180d</guid>
-    </item>
-    <item>
-      <title>📢 Twitter Ads, 200 ülkeye yayıldı - Campaign Türkiye</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5UZUxOQVBiX0l0SW5hZklvOGRiSFRxWVRPVU5NTlVCcU8tdTJFczhyeEU0a25TbEtSU1JGamoxRFVkREtVSHkyZDhrS3lEX05mTl9IcWUtT0JLeWFUc04xcmhBYlRkaXZVQlBDajVwaU5XcEt4RFE?oc=5</link>
-      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
-
-Twitter Ads, 200 ülkeye yayıldı - Campaign Türkiye. Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
-      <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">12dc408346b88320d49dbf4bb5927e00</guid>
-    </item>
-    <item>
-      <title>📢 Spotify Ads Manager ile reklam dünyasında yeni bir dönem başlıyor - Campaign Türkiye</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ3k1c2toQzBtRU9UZXZYMkZRM0pIcXYxSVlzZlk0RWVVVXl0eFZPUzRkb0Jld1QzM05WeThPemRWX0IxdmFtQXZKMUJxbEYxaUtQaVhwdGJtdU4zQWhSdk1tckIydldaaXJ5cGRtUndkUjZpQmNkRXBWcGl1STJSXzdVZVZ0ZTdTaExXTkpDUUh2QmNvR3pOajdRcVdCWDJIdmtjM005a0s3X1JjSGo4SmFn?oc=5</link>
-      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
-
-Spotify Ads Manager ile reklam dünyasında yeni bir dönem başlıyor  Campaign Türkiye
-
-💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
-      <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">3c972de14ba017760185bd23c98cd1fd</guid>
-    </item>
-    <item>
-      <title>🔍 Rock Salt Marketing Ranked Among Best SEO Agencies in the USA on DesignRush - TMX Newsfile</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0JxQ0dGM2JfMDRVd29nYzlCTHA1al9LUVJoNDlnQ2kyd05Rb1VtdTVsdjlCN2JKYkNBcjNuQUdXaER6LW5nRGVpbjN0UXRHYmQzUlJTTnRFekFPRFlaWktTSDdxMy1fUDFOUFd6WkM0WXpsVjVqbWpBeFR0dUdEOGRuSFpXTW1CMjNYejdNemRCU0hCdEphR05hUUVibGxGVWNnaXBsVmxfems1a3JrMzBpcnNYVTdXcVpJ?oc=5</link>
-      <description>📌 SEO | Kaynak: Google
-
-Rock Salt Marketing Ranked Among Best SEO Agencies in the USA on DesignRush  TMX Newsfile
-
-💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
-      <category>SEO</category>
-      <guid isPermaLink="false">12a8c9998b11908bc16a75a11f45b867</guid>
     </item>
     <item>
       <title>🔵 Q4 earnings call: Remarks from our CEO - blog.google</title>
