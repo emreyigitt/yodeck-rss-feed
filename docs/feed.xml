@@ -7,70 +7,101 @@
     <generator>Custom RSS Aggregator</generator>
     <ttl>1440</ttl>
     <item>
-      <title>🤖 AI &amp; Tech Brief: Exclusive | White House AI order expected - The Washington Post</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWVPNWp5RFN4dTFFX1ZBblVyZFlNYTFiNVo2MnRfX0FQV0thV3RBZlhRU0k3c0psWFdfWDBxSlVKZWlRNURFS3o1MU1Qcnd0aGtneFd2eXJJWFptNzkyMVhzR2daUC0tVVZhdUU1MXotVlZUSlZTQU05SUJ4cWR0MGU1RVdEYlRBbzFqcEZXa1FjTndfcEtvRWl5VElXYV9ESWNzRWFMcjlBbFV3RnplM29tb3I?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-AI &amp; Tech Brief: Exclusive | White House AI order expected  The Washington Post
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">3c72dfddf45ce524d9d8f0271d1cd96d</guid>
-    </item>
-    <item>
-      <title>🤖 New QIAGEN AI lab assistant is designed to speed experiment planning - Stock Titan</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkEtd2lYQUdodm5QZW9nYVh6Mkk5SGM1WFQyTXNSR3hZTXhNZHRmODBBMTZZeF9wNGtlUTJKMURrYWY3N3FKN1ZOb3VUR1pMejY5VWMtMUZPanQyMUtxNzRLV0RkQTVTZDZFcTBQWU5zVzRocDExMC1nVkFCRnhZeHhSdDN6Q3JYSGQzeWVtbkJaTDJRRzlMbzg5MlZuaUcwbXhfSFJYVVM3NU1MMUJfOWg3NllIRGRxa3BVXzNB?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-New QIAGEN AI lab assistant is designed to speed experiment planning  Stock Titan
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">640bb56664080963b8bf389070a45cb9</guid>
-    </item>
-    <item>
-      <title>🤖 Students share concerns about social media and AI in Pennsylvania report - FOX43</title>
-      <link>https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWUI2TFlHN09TaXRLMkVaeF9yV002QWxDNEwxbWFKNm50YkJvSVF2UXRCcWhwRENEM0RIZVhCX3dZT2lPZjRncmt4ZjduWmRETzFEMkV0bEd6VDdqamtVcEN5dVh0VkRncHQwb1JiTnFBZHNyS1ZwVEdoQ0pudWpLV0J2N2VPR29SSkRfQ0lQX3hNUVpPUGRLVjBfejRkdnlmbzB0V2c0SHN5b2JuRkRmTjRRNUNad09DQUNmbXV5WmxVSGpaQXFEY0xjbWVuSWUxdTJEQ19nZ0Z5empDd1Y0bVlkaUFkT3pLMVJNaXhuejhjNXJtWW9UMGFOLWx0ejA?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-Students share concerns about social media and AI in Pennsylvania report  FOX43
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">29e4fae05e29a03b299197ff79382e15</guid>
-    </item>
-    <item>
-      <title>🔍 Mueller Explains Why Google Uses Markdown On Dev Docs - Search Engine Journal</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNS0xudHY4Mnhwc0JubHBoZDRRMFIwM3dwS3RDaEhGZ3k4Wm1WXzZBRjIyaGhldlNiQ3RGTXFIajNXMWJwd2hZOUl5R0xBcS1lZERuYjNab29HZ09sSE0zc3NSUXNHOWRRYU14bjRWRjVhS1cxTXluOFFxSEltUWZvNnZVcm8tQ0h1TXc4V0VUbXQtdVNFR1JBdkpxU2NfUQ?oc=5</link>
+      <title>🔍 The Evolution of Performance Marketing for a Leading Toronto SEO Firm - Toronto Guardian</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmxOX2lRUkNQNzQ3TUxreEVRS0czYUJWRWt0Nk9nNXQ1bFhpYlRNbmkzWG9NTG5VYUpEbWFpOEY3d2hMOW5iNngxZXlYdkE0ekNsZW1BdEk3MmlZMlBxYjdabFI5OVloRTBIdllOT1I5Y1JPY2xsbER1OURmalhSX1FienpDZFV1bVh1ZW9LdlN6Y3lzbW9KRmNVSkJ5eE1WZFJGdmxRc1BWZw?oc=5</link>
       <description>📌 SEO | Kaynak: Google
 
-Mueller Explains Why Google Uses Markdown On Dev Docs  Search Engine Journal
+The Evolution of Performance Marketing for a Leading Toronto SEO Firm  Toronto Guardian
 
 💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
       <category>SEO</category>
-      <guid isPermaLink="false">967967f27c15483eb45045288c7b932a</guid>
+      <guid isPermaLink="false">e21301c6861e8dc5732732a246fecf4b</guid>
     </item>
     <item>
-      <title>🔍 WordPress 7.0 Launches With Native AI Integration - Search Engine Journal</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOelJPb1puaFhPTjhIVWlxbjBqTEtVR0NScWRMWDNzRWxnLWFhZ2UzOXBxbkhvbVhTN0ZaZ2hlTXNnMW10dnZ3M3l1UkR1ZUFCWXpJbU1GbTZMZWU5U25vOGhRSGJCNERqVHB4dXhyc0xGajh1RHE2UExRcm1tdnIzQ2FhSTc1Z3ZaTk8wLW5vRXotcFhXZmpIUg?oc=5</link>
+      <title>🤖 Apple Inc. (AAPL) Targets $15B Service Revenue via AI - Yahoo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEp4T0FqNE8zZDFuVUZhOG9jcHJiNjVQbVZxMFNkbm1ydkhhTi1waGNmWFMzV1k2eER5a3ZNekFkRUk5dUR4emV0WDA0NWFPSmtZQUh6NWRlOWxnNG9veWtGOEtqcmx2VXdqbzVNUHpjMUo3SnFlUnlOVEFtTlFsYVR5VGJSMXA2ZENxQ0QzZmFNekVlWFRSRk84SQ?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+Apple Inc. (AAPL) Targets $15B Service Revenue via AI  Yahoo Finance
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">a264bb4518661358a6cf9ad49f2192fc</guid>
+    </item>
+    <item>
+      <title>🤖 As AI layoffs in America cross almost 50,000-plus, Donald Trump says: AI has been amazing, because ... - The Times of India</title>
+      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxOd0ViTzlHMW1YaFQwaFR0ZkdKWWx3SHNUWkJ2aWFLaDk3aHZQM2Z2NjN1dThoZUF0QnhsUWVxY05ubWJzaExGeGVucXJjWEstNUxiNWdhUmxJUkZhRUZKN3UzdndFZTlqWGt2UEZIdUpwTThhVkoxMmd2WjltRFMtZmctTzF6V3Jfb2ozZkxQX0JBX0NfenBRWWxqM2xWdUZTRkY2cldpa2lMSFdFWHlPRURYdHdTNmExMHRFeE5CbnhGVnE3TjZfRk8wYm9ZZjFQV1FOYThnT1hRZkxSNENYN1UtTkZyZkxrYm44MkF1UmhERDlYZy1udTFYM3EzSHFhWHE0dmppU0xRUdIBjwJBVV95cUxOSzFwZWZ6VHE4eHZHbEZtaG5kaGJyS29DYUFlMEdXSVR5Z1BwSFgzZ3BramRXSmM4MllVVFd6Y2NMbjYzUkRURzRwdHpsQkxJTk1KVW0weWF3MUpIV3AyR0xJRnR6b0M1MGZYZDhfTXFRZXhHZ25Jc3A0bGh5TGdmN3ExMkUxdVkxcTczdXQxQWprM19fV3NPVU9NMFRyUGJqRTlVT2dtd2hIQ1gwa0hjeVljSkROU1VXbjVwc2dyNmg1QXR3YkJtemFjTnZzdENXaWRuYl8tdzZVc1RkRWRHNUVEdGRPd2NWcFUzVm5wcDJLdnVzVGQ3b1NzdzBpSjdTY25VWmhHeWJfTXdaWHZn?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+As AI layoffs in America cross almost 50,000-plus, Donald Trump says: AI has been amazing, because ...  The Times of India
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">2bffeda58e8c0081f5036839c5257bfe</guid>
+    </item>
+    <item>
+      <title>🤖 AI and New York City’s Fiscal Future - NYC.gov</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE12bEZFWFd6OFVfSGdfQVZ5aVBseWl3YUFqUEc0VEdlZDdiSzFBUEdUTHg3T2xEV1R4UFNUVlN6N0Voend3OWJ3OUM0WFpvRUZTLWZBQ2FqRlhDUF9zU1BZTXloLWhCT181eXNtQWNMYmhPa2RwNzNlS1B3N0E?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+AI and New York City’s Fiscal Future - NYC.gov. Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">ba5a71bfccdaed2bd5abd2a793015a2a</guid>
+    </item>
+    <item>
+      <title>🔍 Orangory Brings HVAC SEO Expertise to Orange County Firms - openPR.com</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNRktBN0dvZ24zME55dU42LTJzb1VpellOeVlNMC1EY0RZUTRQVzRDc3JscUViY21sRGVjdkc0Q3lRR0FPX0xzLURZRHZWSHdLR0lYdjY2bURueVZxbnliTFBral85ZkZkSkx0VVdWYk53SDJobUo1Nlp5Q1BUeFVNWnFCblJTcDhBVmtoOTlBcVdsWUJ4NG03aA?oc=5</link>
       <description>📌 SEO | Kaynak: Google
 
-WordPress 7.0 Launches With Native AI Integration  Search Engine Journal
+Orangory Brings HVAC SEO Expertise to Orange County Firms  openPR.com
 
 💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
       <category>SEO</category>
-      <guid isPermaLink="false">706d5dcbe8d3c215aa2cc4e11bbc3e57</guid>
+      <guid isPermaLink="false">cf494b44e8f5f4b3b382860f8c3a2660</guid>
     </item>
     <item>
-      <title>🔍 Markup AI Positions Content Strategy Around AI-Driven Search Optimization - TipRanks</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQN1kwR3FKVlpNQnR4MVZBcDRoRHNGU201eHNaWGF4Y1VrZGcwN216blJNM1p2VmwwaHE1Zzc3Zk94YW1TTUltMXJmOXlUMENHMGMwOG1pdVRFbzBhZUtPbUFEYS1Pem83SzhFWFF4QWwxdzVkcjRvZklUTFBHd0RCbElxcnlzb0FDVG9JNmd4VHR6TjlhTWtJRlJpb1dFM3czdGJNUXBoY1dnMkNYbnBWNUwzY0M3cTBxWm9JREVn?oc=5</link>
+      <title>🔍 India’s Most Trusted SEO Agencies - Indian Startup Times</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5lX0FZbmk2RmIzZXdfT1F2VHpBYUZmd3I0SXphTEc5ZGJkOVc0LUMwSUs3NkNQQmpjbkNYakhkSzRNTTNUTnZqa3F5Ul9RU1NQbFB0SkdjQ2pFNGwxZk1mMk9HcUQzZW95bkFYUXJEX194YWFpb05jZ0haaU9iZw?oc=5</link>
       <description>📌 SEO | Kaynak: Google
 
-Markup AI Positions Content Strategy Around AI-Driven Search Optimization  TipRanks
+India’s Most Trusted SEO Agencies  Indian Startup Times
 
 💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
       <category>SEO</category>
-      <guid isPermaLink="false">08f0722eb1c7d4bff6b8e93a127f4e81</guid>
+      <guid isPermaLink="false">98fa12067b851fee67d71daec16d6329</guid>
+    </item>
+    <item>
+      <title>🔵 All The News You Might Have Missed From Google I/O 2026 - Engadget</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXd0MEEzOWxtZlVDb3FiaUhpQ1h2VDR6UXFEa3ZHc2Iwb291VzJkTEZVSW5SdVdHWXVHN3RqODFzeWJLVjFaWng5cDhKOXNLOGlIanYtYy1MMklGcWtGMEVmWEwxb2g4V3B5ekY3VkhtMWNSN1poRmpGWjJHc0RBS2U2TVAtOGdkUWstNGJkN1M?oc=5</link>
+      <description>📌 Google Haberleri | Kaynak: Google
+
+All The News You Might Have Missed From Google I/O 2026  Engadget
+
+💡 Google'ın ürün ve hizmetlerindeki güncellemeler, milyarlarca kullanıcıyı ve işletmeyi doğrudan etkiliyor. Teknoloji dünyasının en büyük oyuncusundan gelen her yenilik, dijital ekosistemin geleceğini şekillendiriyor.</description>
+      <category>Google Haberleri</category>
+      <guid isPermaLink="false">b5479d4ab869b09b9f353433038df3ee</guid>
+    </item>
+    <item>
+      <title>📢 Gemini AI spearheads Google's next-gen ads - Bangkok Post</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPVS1YcmV4NjFyQ1FTMHdacU9QUHJKekR5S3pPNmYxRGxETTZhSmowcTJnalUzSm9xbE9BMVZfSkZXR3VkU0FSSF9HeE44alI5SGNURG9Fc3h2Tk05UG51VnU5QVN3SHhrX2U1dFYwdWNfenAzaWdLWGF2Sk5ZejU5WUF0MVBmMzhqbzJDem9EbEdNb2dlUGFnQw?oc=5</link>
+      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+
+Gemini AI spearheads Google's next-gen ads  Bangkok Post
+
+💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <guid isPermaLink="false">53e4e7bdde1942c1138261a686164f34</guid>
+    </item>
+    <item>
+      <title>📢 Google's Ask Advisor unifies ads, analytics, and commerce in one AI agent - PPC Land</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnZTLUdmUGZjWk5WcVRqR2p1Z2d4UGdZVF9pN2Zjams4UXQ0S3o5Ulc4ZE5DVXV1dFpqWTFBUzVqMVhhOFhUOUVRQWY1UkJRZFJ4Q0pMbTh3YnYxU29mcm1RWnJCYlZJRzU3UGZCODBXazdITU9SWDNtWnphd0RaNXpFaWZqUFVXYkdjVzFDblF3UQ?oc=5</link>
+      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+
+Google's Ask Advisor unifies ads, analytics, and commerce in one AI agent  PPC Land
+
+💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <guid isPermaLink="false">b0baa425140ff54eb6de4ad5cdbb43bc</guid>
     </item>
     <item>
       <title>🔵 Google's biggest search update in 25 years: What to know - Latest news from Azerbaijan</title>
@@ -95,39 +126,6 @@ An SEO EXPERT Sent me a Guest Post List and I Laughed at Them. This is my Story.
       <guid isPermaLink="false">ca61e1e2f95e6a3b7872833af6c9f4f4</guid>
     </item>
     <item>
-      <title>📢 Digital Marketing News, May 1–10, 2026 | Google, Meta &amp; AI Search - ALM Corp</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBIdElMd0hoUGRfNjI2ZGJUSkc4NVdpMnRWaHFuTThRclktbFc3TGNKUW04dnZsMFdJcFozVzR2MVZsMEpPdHBsOW5iX3hUQTB1OElKWDlYY0hvQjMxUGUzaEtUT2RSQjNhT091RFpkUQ?oc=5</link>
-      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
-
-Digital Marketing News, May 1–10, 2026 | Google, Meta &amp; AI Search  ALM Corp
-
-💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
-      <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">ee2560932d15de82fb8e0d2aeb393ba3</guid>
-    </item>
-    <item>
-      <title>📢 Mehmet Aydın’a Uluslararası Başarı: Kagapso Sistemi Altın Ödülle Taçlandı - safakgazete.com</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkZuZnRYb2NIMFlxaXBNNExLamRBOGlVdkowV3gxUmtVQzFoX21TMmdGMGNDQW1QbW5Kc2VCY2FicmZHdndRWjU1R0lnd2ctWDN3dDNBRW1GSFBPYUVvNFJoUF83bHQzUW4xQXUzbEF5V1M3TXFMQnIyMXBrd05ibkR6cnJxTVZrY1pzTjhTYm9yV18wY1hYM1c3TGx5VGQ00gGmAUFVX3lxTE4wSXNSRXZHOUhMeFdqVkQ2YXlTVFBCMzFJSnFaTXdiTFMxSW1raGtIOXpySlBLRnFDS1lCX1dOV21aWDFpTUYzNHdYai1nb19FRmxSQkpkX09Id1VJbl9DSGt6VUlrWC1ab19pbElKZGg5VWx4UTVPLWNfcWRDZWk3TmFjZlNRcmNtUlh1UkFOTFdqNXZIRHY3NVdXSnZPUzVfejFJT2c?oc=5</link>
-      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
-
-Mehmet Aydın’a Uluslararası Başarı: Kagapso Sistemi Altın Ödülle Taçlandı  safakgazete.com
-
-💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
-      <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">7c1d56b05acc23007b4ae3d01051ffaf</guid>
-    </item>
-    <item>
-      <title>📢 Changing digital advertising and commerce in 2026: 5 ways Google aims to use AI to make shopping easier f - The Times of India</title>
-      <link>https://news.google.com/rss/articles/CBMipgJBVV95cUxOLWxkOXdudGYzTWdUcm82T0Yzb1hFUmtTcDFnT2VSaC1ydEVyamR3YjdFbnZHTmpVMFRSTWZnVU1JRS0wRzBLclVvUFNkdnluMTRQb3U2UGZVMmVBSFVjcjVIM0JGZGxMN2hScm5wRDg0dzNZaGVSc1pLZzJCSGpTdTY1VmFKRkJsVnJidnJiRVQxQm1TSzd3SlpGV2NEVTlIVDBiSmRQWXl4X0s5MnRtUHRzV0tJSDk1T29WbHFNeWQyOEF5ZG80SHc1QXBMYWRES2JIY0I1RjBQZVZ2d1RVNlg3YkZ1LVBSdU9ickQydlpqcWsyV2JQZFlQbml2alZ5ZElpQlZ1ODVlUUhEWmVJMW5Vby1uTWlzQlZKSFhyS2tOX3kwSHfSAasCQVVfeXFMT2FuTGw4YXUwRmEwOWVKTGFsRXo3XzA0MkphbTR6TTJnY05BU0VnZFRJQnZ6Yl83eHRydWwxSzUzLURkNDdXWDNnckFvb2NTVXpHUU5ZR1NMVzRiUktEdktlN3lZcWxfUjJqVEVJNXdYM19WWG9TVGt2UkR3TzVsc0lyb3k5Rkd1WXNpV2pST3lEc2FydVl2MTZGNHhkbHI2alRyQlNIOUhLcFJCTmQwNGl0TldHSkoxcnFHTE80dmpuaWNxQ29mYl9BT0ZacVdQNFNwX0ZGcnNvOTJ3QXI5RjBEUVFyMXBweWRaY2dBdVNvcy12TVVPTDl5bUJ0M2E4NEZ5a29WV3NfeTNtV2N6N0txQ3ZqSkhETXVXTE5ESjZFRW91Vy1jVWJqZG8?oc=5</link>
-      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
-
-Changing digital advertising and commerce in 2026: 5 ways Google aims to use AI to make shopping easier f  The Times of India
-
-💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
-      <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">1c5be1874421ce1d1963c146d4fca6ed</guid>
-    </item>
-    <item>
       <title>🔵 Q4 earnings call: Remarks from our CEO - blog.google</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXRUR25GSWJtc1FxZl9KRHM2cUtVMHVMRmJFMmtWQzFyLUlHZExvMXp5N0EzVE9BZnBsTVJYR1BBcnJ0V3BBUzlJWWxMUHdSazJHSDRZczJPRUF4NHVWQkNNVjNlRkRqY2FFbUhESXFFZzl1WDA3MDlQUzB4Z3U4VnpwVlc4aTl4Vl95VWd3?oc=5</link>
       <description>📌 Google Haberleri | Kaynak: Google
@@ -150,6 +148,17 @@ Sağlık sektöründe dönüşüm - Think with Google  Google Business Profile
       <guid isPermaLink="false">01bbd10ea4b1fd6900a16f182eb51681</guid>
     </item>
     <item>
+      <title>📢 Retail marketing insights, strategies, and AI - Think with Google - Google Business Profile</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmwzSU5DcFpEalMtSjY5Z19MaXhTLVlKcFlPTkxKUDhpU0ZLWUNXa2Q5UlB3Q0xhdzd1QTAyd1UwOU10cVZhUFdNcXNVNUxpc2FLSkdaQ19zbFg3elR5aDczZDJ1ZV9zcnNnMUxkU09mek1FSHAyMUNLVVFTZjFvT0ZKRHpZa2NsZjFoSFJmWVpGY0IxbEFKYVdWWW9zRnlva2c?oc=5</link>
+      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+
+Retail marketing insights, strategies, and AI - Think with Google  Google Business Profile
+
+💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <guid isPermaLink="false">046cf74ea04c84a80e7964f03d0074e3</guid>
+    </item>
+    <item>
       <title>🤖 Yapay Zekâ Modelleri Neden Halüsinasyon Üretir? - TÜBİTAK Bilim Genç</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1VWcnNlVVdoQURDVlhrelBmM3FxZmpWMEo2QXB4dGoxczlLX0x0X0pNbkdDVTdTSk91WmVuZ2MzQVV0cHFlTzBlaElUMmNaVDg1UEUtOThIMVhkRnlaNnMyZzRtV3NGRkNPTzJLVlZiZWdENS00SnZvY2RUODBOb2VfNXdvNGdYMnltdmJEaw?oc=5</link>
       <description>📌 Yapay Zeka | Kaynak: Google
@@ -159,15 +168,6 @@ Yapay Zekâ Modelleri Neden Halüsinasyon Üretir?  TÜBİTAK Bilim Genç
 💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
       <category>Yapay Zeka</category>
       <guid isPermaLink="false">5be8c09d7012af5350af8e7200040ebc</guid>
-    </item>
-    <item>
-      <title>🔵 Google’s “G” gets a brighter look. - blog.google</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDNCNnpqZ3o2clY4R1Z3QXZvbV9hMC1vWXdFVmxJcGIyNDdTOHpNVmxxSGdqdkVJQVprQUZLYWI2NDh1Z2hWZnFpWE5lUEZNZkFyVS1mRld4aExOdHUteXhhNmxlZjFiTmhpOGVVenZ6aUx1LUVJVUhnRzl1RURwMHcySHR6TjA0aTFabHRoSi1JUXJBX3BR?oc=5</link>
-      <description>📌 Google Haberleri | Kaynak: Google
-
-Google’s “G” gets a brighter look. - blog.google. Google'ın ürün ve hizmetlerindeki güncellemeler, milyarlarca kullanıcıyı ve işletmeyi doğrudan etkiliyor. Teknoloji dünyasının en büyük oyuncusundan gelen her yenilik, dijital ekosistemin geleceğini şekillendiriyor.</description>
-      <category>Google Haberleri</category>
-      <guid isPermaLink="false">4a153d112b116a0f2fc14c6bb1fe60fc</guid>
     </item>
   </channel>
 </rss>
