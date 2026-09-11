@@ -7,48 +7,70 @@
     <generator>Custom RSS Aggregator</generator>
     <ttl>1440</ttl>
     <item>
-      <title>🤖 Lumen Technologies Maps AI Networking Growth Strategy at Citi Conference - Yahoo Finance</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQdExUcnNIT3A1MGtRNy1RcjFDd2kxTTFQTUxfWll2dl85M0FkXzF2Y0g3MHZJUnB1UGdwQ1ZFZm1mX1FwSmU2UUpQdzhrZDBka2xuRkxCdE5VR3RRT1pqYnFLMkdfdW56U25zY0U4QkVwcXVqRGd5Ni0yMDJCSGkzd3NlaVRpX0tzdmdtRTBaT1NUTmZ1ajR1ZE0tT0hza2JEQ05B?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-Lumen Technologies Maps AI Networking Growth Strategy at Citi Conference  Yahoo Finance
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">45b69e5d73a71901db29d94c6b43a188</guid>
-    </item>
-    <item>
-      <title>🔍 Zeal Digital Launches AI SEO Services To Help Australian Businesses Adapt To AI Search - Issuewire</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTgtbnBNM2FBLWtFNDlKOHl3MV96c3cxOVl0ekdLVkxiODUyX05nT3BKbENvYi1mOFdDNGpuNWhNNmxSRGpJQjc3VnozZnBpUm5TbHVpMGZyWlhXNDRSMHZNX3pTbVlxN1ZjLXUwUTFSMGc0LXp1WThIei1ZR1M1QkxRZlg0dVUtYVp1bkpSLV9mSkJ5UzhQVU1tNGZWS21Zcy1telhNbUY2a09qRE1tMTdud1o3X052a1k4eW8wWGwwRkhYWXJYVA?oc=5</link>
-      <description>📌 SEO | Kaynak: Google
-
-Zeal Digital Launches AI SEO Services To Help Australian Businesses Adapt To AI Search  Issuewire
-
-💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
-      <category>SEO</category>
-      <guid isPermaLink="false">8143b82c07c5181080c1991ccf9babff</guid>
-    </item>
-    <item>
-      <title>🔍 Maxeemize Launches AI Search Visibility Audit to Help Businesses Get Found in ChatGPT, Google AI, and Answer Engines - EIN News</title>
-      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVR2a0ZLSjJjd3NwcmIxNEhZMmJQQVp3aU9UYWJ3SEhoTnZyR0dweUpsSm5aTm5PXzUtRUlsUUJGZjVDb2pBd1FkUmVaZEt1eEwycVhOSllWamFfTGVjS290WnlNaEM0Nmc2WGV6WThxQThBQzc4Ni1TOTc0NkFfMWtzMnV4V1N6SVk1NnBrUjJUdHoyUzNXV1RSR3k4dmFqTU9FV3JTSW5Sa2ZleGNxTVNQcHZYcktoMGhMZDhSRE1nOVd0SjRqVmpVQzZCb1dyMmhXNGEtLVNpQ2dVaFd5NHFDaGxnU0xIbVpxSQ?oc=5</link>
-      <description>📌 SEO | Kaynak: Google
-
-Maxeemize Launches AI Search Visibility Audit to Help Businesses Get Found in ChatGPT, Google AI, and Answer Engines  EIN News
-
-💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
-      <category>SEO</category>
-      <guid isPermaLink="false">056eb0a87676d05f9b6c548514cbe6ee</guid>
-    </item>
-    <item>
-      <title>📢 Why Google Ads Still Delivers the Highest ROI for Local Service Businesses - OCNJ Daily</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNMFpocDNZTFFyaDhESDA2SGxQYzJJbWY2VUE5Q09fZHR1QzBGTFBudnhUYzFiR0stX19IYU1lLWlESW9zVjlOYnhoeXZtMGpXVjViMDIxU1FpYlU3U1B2djhjam1oU0hsM2lqa1Exal9ndFRRTE5iZjhjSXBKR3dWM3NVN2E0WHppNFVDdTVfeUNjbzViX2J0Z0NucTNzZEJkV0VTUnR4WWsxTjhjQjdzTWtBem9nQU5JdDM2OA?oc=5</link>
+      <title>📢 Google Analytics launches customizable Dashboards - Search Engine Land</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxObWNHUkRGaDZtaE1Wa1dFQkZYcGJGZHpneW56LTBycXFjV3hPVUhnVU1Yc2IzUUJWSDZvUWNZV3Y0WGVYcU1Qc25oQnRXcF9yZGJSZzd3ejRjNmxyVG5odjVyNmwycWN6QlVKb2xqS0hTdGxpMGw2alpMcEtMaW1xV1REUDFseWFPYlowWmhR?oc=5</link>
       <description>📌 Google Ads &amp; Marketing | Kaynak: Google
 
-Why Google Ads Still Delivers the Highest ROI for Local Service Businesses  OCNJ Daily
+Google Analytics launches customizable Dashboards  Search Engine Land
 
 💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
       <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">0e216731b9dbce716055c10da5fad22f</guid>
+      <guid isPermaLink="false">1211f89fa2e7acfb80bcf8296af43218</guid>
+    </item>
+    <item>
+      <title>🤖 Two former AI researchers on potential threat from AI - kyma.com</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVhNR1FJZXFTNTNyTUxrWU1iaGUtZnRraW0tY1lMSk84SUE1MTlBZEUwcHNjMnFZaFhudDNWcGF5cElkQmVmRlU4a1Zsb2xnTm5wdUxWRVRKaEk4TXFDWEk4a1FaOFAxcnNkYkIyRUtrXzFTYThSNWtRbjZ5eUFOWkdtMTVyTVJZUzl4YjBpdHVMcFVUUkNEYS1Bd3drcUNIYzk5bUpJdw?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+Two former AI researchers on potential threat from AI  kyma.com
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">676037b80a7417905bfadfc32a3eccca</guid>
+    </item>
+    <item>
+      <title>📢 Advertisers report Google Ads credits being revoked after spending - Search Engine Land</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNTlJuZWg5d0VjNEVnRUVTM2VCb2pUZEFtVXExekp2NzJLNHlfZ3J6RXVfTXZBZGZfOURvTzVmQTRHZ1VhLTk1d3MwdDk5eWd2MmJINDM3VC1CcUNGTjlxdlhHazZuQXpZd3dvS3ZQb2o3SzZSYmxPRGJiZTRKd2lGeEc3YllTWEFScmpqLWZaMDM2akFEQ0VWMDUwM2pSWU9EcHI3aA?oc=5</link>
+      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+
+Advertisers report Google Ads credits being revoked after spending  Search Engine Land
+
+💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
+      <category>Google Ads &amp; Marketing</category>
+      <guid isPermaLink="false">a8ae6f36a10134311485fbfd19f41719</guid>
+    </item>
+    <item>
+      <title>🔍 Meydan Free Zone wins two awards at the Marquee Awards 2026 for Performance Marketing and SEO - Gulf News</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3J4OFozVWZTVUg1S1VDNHRGZWVBaUUyTEJ0R29KTlZ0d3hXT0txeWVGdE5NMUtWUzhoNml3anFJaDdKN0VjOHp0bllHRFhQSXFfWFhKWnh2U0Z4ZVAxU3REa0NTMWVFbmR3Q3A1R2M2c1VmSE9aaTBTWkFuSVY3RVJPRHZrRm9ZVkM1NW53SW1PNU1jSFE0SUNvX2ZJeU5obU5OZ2ZLVW0wVkxBMVBtRWZ3bXZiVVUzS0dENm1rNEZkcnltRUl3YTJhc1k1cVdtMlFubTN3cXRqUGFrNVRyRTJR0gH0AUFVX3lxTE1yRnFDcGxDSU5NazZjN0VQc3JmWDhaLXJnRnBTakNWY0VNYUViTE9ucFVsX2txclFvd2tOemVzR2hwTG5vVWt2UUJUVW1qWnI4d2RrZGJkNTZHX0I0TWw0V1FORG1NMGk0SWR0ZkdrWDZVeC1vazhzTXRiamdKWUowX0VGZkFVVEIzRWhSNU9sOUo4UURtZmcwMmtkWEVKSm1peXk1cnNkclpmbmppdjhDMHh2dkx5ejBCOWM1UzltOEJYN2xwMDN6bGVQVFJPWTFxZ1dPX2o2YXdkNkN1aXJPaUR1T2NYQ3BNXzdrWE93aVA3QWc?oc=5</link>
+      <description>📌 SEO | Kaynak: Google
+
+Meydan Free Zone wins two awards at the Marquee Awards 2026 for Performance Marketing and SEO  Gulf News
+
+💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
+      <category>SEO</category>
+      <guid isPermaLink="false">cb33e3879fa18fc9d318366e8680a44d</guid>
+    </item>
+    <item>
+      <title>🤖 Mobisoft Infotech Introduces Enterprise Agentic AI Engineering and Integration Services - EIN News</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXVDYUlvRktMQnZwYlVvcGlXZ2hkMUxzOU9BYW03dzJyRXpwb0NTSjVCeVRZNHpENnNBY1BxR2JwVFdVTGJ1Tm1yQ2ZJYXNBWHFLb2FvR2pKUWpyNHBHVXlpRXF0cjVZTFpkcnNvYzk1eGl4QlJ5Zk1wdDVEVlU0TzBMLXIzYm01dDFraDNuTmkxVlc4Mm9XUkN0M1ljWjdPWHBuU3N3NjVYV0xTdmkybTZJWXNmcUV0cklWZ2QzbXNSaENpeUhNQmRn?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
+
+Mobisoft Infotech Introduces Enterprise Agentic AI Engineering and Integration Services  EIN News
+
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">2129e5115216ae39903b223266e8100c</guid>
+    </item>
+    <item>
+      <title>🔍 Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types &amp; Google Maps Photo Scams - Search Engine Roundtable</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LMHFvUTJtbE00S0t6Y2V0Y3JBR0w0YUwwWENMNndmcTRHNEJ2bmdFSXJwc1NCMkcyS29INmVYRjdpMXNqc3BBcU5tbFF4dEN1d0JDbTFFSHQySVgxbkhrSTdpUXd2eUE?oc=5</link>
+      <description>📌 SEO | Kaynak: Google
+
+Search News Buzz Video Recap: Google Degrades EU Search Quality, Losing Faith In Your Site, AI Mode Match Types &amp; Google Maps Photo Scams  Search Engine Roundtable
+
+💡 Arama motoru optimizasyonu sürekli değişen algoritma güncellemeleriyle şekilleniyor. Web sitelerinin organik görünürlüğü için en güncel SEO stratejilerini takip etmek kritik önem taşıyor.</description>
+      <category>SEO</category>
+      <guid isPermaLink="false">138dbeb81f2a6165db84ebf7ec0574e7</guid>
     </item>
     <item>
       <title>🔍 Hoverboard AI named Best New Generative Engine Optimization Tool for 2026 by EliteList - WBOC TV</title>
@@ -62,33 +84,11 @@ Hoverboard AI named Best New Generative Engine Optimization Tool for 2026 by Eli
       <guid isPermaLink="false">3f49a7df62b4e6d42ebf6a9cbceaca4a</guid>
     </item>
     <item>
-      <title>🤖 Lawmakers blast AI companies after researcher warns of human extinction by 2030 - The Guardian</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjZzVHpEamtvYU5iZ2xxTVc2RlZMd0piaWo3M1VzbjJ1Qk8wc2ZyWUFTaXlqVm95SjFnbEFqemtSZ1FvQWZQWWFCVlJXRlduNy1EeFp6cFVMdFJyTE9CNnVpZlptM0VYY2MwSmwwX3BKRU5TaGpMd2ZkYjhtUkxXS295NEJQQ1hLU1RtVk95NzBkQQ?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-Lawmakers blast AI companies after researcher warns of human extinction by 2030  The Guardian
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">482f05597c785605103ae2d4b452b677</guid>
-    </item>
-    <item>
-      <title>🤖 Live talk at noon EDT Sept. 15: Rising Stars on AI and emerging tech - Automotive News</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBBcVZPOVlqUWtMMkR5VjlWREhYOV9hTVBjSzRVM2JiTUNNWTM4UU9uZWRnMlJtWk53b3NHMVR2MWFHV3duS2ZoN3RuSzRLSWxPRWQwNEhLMjMtNVV0b1pLcFJ1Y2NuV1VUZVdrd19paVV5VEdIZjNR?oc=5</link>
-      <description>📌 Yapay Zeka | Kaynak: Google
-
-Live talk at noon EDT Sept. 15: Rising Stars on AI and emerging tech  Automotive News
-
-💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
-      <category>Yapay Zeka</category>
-      <guid isPermaLink="false">06875df39d0f1a05821605a206cd7b5f</guid>
-    </item>
-    <item>
-      <title>🤖 Yapay zeka destekli hukuk teknolojileri girişimi Safahat.ai, 590 bin dolar yatırım aldı - Webrazzi</title>
+      <title>🤖 Yapay zeka destekli hukuk teknolojileri girişimi Safahat.ai, 590 bin dolar yatırım aldı - webrazzi.com</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHpVWTZ6Zmk5TmxlUTlOZFZjQTZ3ZXQtV3ZWLVIyclhMd2szY2FLQk5vb3lTNHE1amxPcUxiSG5jWjVTWHZMVlBnQzMzWFRvUDB2OGIwZC1GSGxXVFdzTjRlOGtVZm0tSVIweFdoWFdmT2RtcWFsX0RiOVhvbjlobldyS1lsdnlldHdCVG5LcnNHd3VaZXpMbjh6WExIMWg2czJWZlVlYlV5M1Z2SjlWeHZ0OTktR0NmMnc?oc=5</link>
       <description>📌 Yapay Zeka | Kaynak: Google
 
-Yapay zeka destekli hukuk teknolojileri girişimi Safahat.ai, 590 bin dolar yatırım aldı  Webrazzi
+Yapay zeka destekli hukuk teknolojileri girişimi Safahat.ai, 590 bin dolar yatırım aldı  webrazzi.com
 
 💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
       <category>Yapay Zeka</category>
@@ -106,15 +106,15 @@ Accenture and Google Cloud Deepen Partnership with Formation of New Accenture Ge
       <guid isPermaLink="false">44cbbd748147e42624bfa9a2bdefd8a0</guid>
     </item>
     <item>
-      <title>📢 Bolder Digital Launches Integrated AI and Digital Marketing Services for Australian Businesses - The Manila Times</title>
-      <link>https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcXcwWUpoNjN4ck5XcjgxRkNjNXpwbGRqMFFjNUhCb1RkcW9JMy15WE5zdTRkODlVX3ZKc3h1MklsN2c2RmJSY1ZRX3FQOFlEaWNpazVsUkhPYm1lV0tTSUFRM1k0b0FlSlI3cDR2ZlRscW1jVGNqaDZTby1fV3Q1eEl5b040MHpOWWlLbnlfMGFwcTVscWJseTUwZmdJemNsaktWV2JWdk4wc21mZ19DMTRSWVVpNTJoVGtjc3RSNUQ4akdKNVlRNndaX2lEQnAyWWxnb0xqTFR1c2E4cXFVNFpacjNEZmFlWXBXMldDUWlJZmNaRTIyR3JrUmjSAYICQVVfeXFMUGFza1hjSUVsN2JhV1l5STBJdkUyOXRPbTQ2ZUtwcEV5MV9GUW5uampXRG5CNnhpNjBVX1NfNEplNGtrQnZWYzNlbjBuRzBTT0FLdDVwZEtuVmVISXBlYlp5V3dFc252aXpybmRsRlBjTGFVMkNBZjZrRnQ4cmtzRHd4WlQ3SDZjVzljNFBrQjVlYktNVGdSaGpqVU1xMkEteWlmNlhsYVJXODBXZ2dVeXVBOVpJVTJWRFlhM2hPQ0NDZXo4OHBzOTY0OF9CY3Q2Z1V6V1ZqaFAwdkF2M001NDB5TndOMGdNRmhLMVBZQWN0MXJoeXhUXzh4Y1daanR0MEtB?oc=5</link>
-      <description>📌 Google Ads &amp; Marketing | Kaynak: Google
+      <title>🤖 Kurumsal Yapay Zeka Şirketleri: Pazar Analizi - AIMultiple</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1R3ZTRUppbldqcXJhT3lUcnNJUEQzaWFQRTl0TGVIRm0tQnZqTWJWc1Vrc2hDdTdVandpQV9GNVdCNHhYbDZWMTlZMHF6eldrOTZWdGFteFp5RzlBVEE?oc=5</link>
+      <description>📌 Yapay Zeka | Kaynak: Google
 
-Bolder Digital Launches Integrated AI and Digital Marketing Services for Australian Businesses  The Manila Times
+Kurumsal Yapay Zeka Şirketleri: Pazar Analizi  AIMultiple
 
-💡 Dijital reklamcılık dünyasında sürekli gelişen stratejiler ve araçlar, markaların hedef kitlelerine daha etkili ulaşmasını sağlıyor. Google Ads ekosistemindeki güncellemeler, pazarlamacılar için yeni fırsatlar sunuyor.</description>
-      <category>Google Ads &amp; Marketing</category>
-      <guid isPermaLink="false">0ad2678ac0adce7f9ffe59d305b78dbd</guid>
+💡 Bu gelişme, yapay zeka teknolojilerinin hızla ilerlemesiyle birlikte sektörde önemli bir değişim sinyali veriyor. AI alanındaki yenilikler, iş dünyasından sağlığa kadar pek çok sektörü doğrudan etkiliyor.</description>
+      <category>Yapay Zeka</category>
+      <guid isPermaLink="false">c9f49147b8ccd5cae05f379c41ff3105</guid>
     </item>
     <item>
       <title>🔵 Google Cloud cuts its own cyber threat hunters as Mandiant layoffs hit security division - Livemint</title>
